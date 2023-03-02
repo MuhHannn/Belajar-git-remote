@@ -1,2 +1,3 @@
 halo
 baris baru spcl ftr4
+baris baru spcl ftrC

@@ -2,3 +2,4 @@ e
 tes
 baris baru pada ftr1
 baris baru spcl ftrC
+baris baru spcl feature/d

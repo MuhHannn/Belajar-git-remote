@@ -2,3 +2,4 @@ halo
 baris baru spcl ftr3
 baris baru spcl feature/d
 baris baru pada branch feature/rebase
+baris baru pada branch feature/pick

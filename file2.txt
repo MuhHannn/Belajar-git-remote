@@ -5,3 +5,4 @@ baris baru pada branch feature/rebase
 baris baru pada branch feature/squash
 baris baru pada branch feature/pick
 baris baru
+baris baru pada branch feature/for-rebase

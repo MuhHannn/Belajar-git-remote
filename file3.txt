@@ -1,5 +1,17 @@
 halo
+<<<<<<< Updated upstream
+baris baru spcl ftr3
+<<<<<<< Updated upstream
+=======
 baris baru spcl ftr3
 baris baru pada branch feature/rebase
 perubahan 
 baris baru spcl ftrC
+
+baris baru pada branch feature/rebase
+perubahan di feature/stash
+>>>>>>> Stashed changes
+=======
+baris baru pada branch feature/rebase
+perubahan di feature/stash
+>>>>>>> Stashed changes

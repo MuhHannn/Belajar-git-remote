@@ -7,3 +7,4 @@ baris baru pada branch master
 baris baru pada branch feature/squash
 baris baru pada branch feature/for-rebase
 mengubah di feature/for-merge-squash
+baris baru spcl feature/d

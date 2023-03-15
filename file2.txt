@@ -2,9 +2,6 @@ halo
 baris baru spcl ftr3
 baris baru spcl feature/d
 baris baru pada branch feature/rebase
-<<<<<<< HEAD
 baris baru pada branch feature/squash
-=======
 baris baru pada branch feature/pick
 baris baru
->>>>>>> 410f0c8 (Memperbaiki file3.txt di feature/pick)

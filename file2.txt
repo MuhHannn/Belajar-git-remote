@@ -11,3 +11,4 @@ baris baru pada branch feature/pick
 baris baru
 perubahan feature/register
 baris baru pada branch feature/squash
+mengubah di feature/for-merge-squash

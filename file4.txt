@@ -10,3 +10,5 @@ baris baru pada branch feature/pick
 perubahan feature/stash
 baris baru pada branch feature/pick
 perubahan feature/stash
+baris baru pada branch feature/for-rebase
+mengubah di feature/for-merge-squash

@@ -3,3 +3,4 @@ baris baru spcl ftr4
 baris baru pada branch feature/pick
 baris baru pada branch feature/for-rebase
 mengubah di feature/for-merge-squash
+baris baru spcl ftrC

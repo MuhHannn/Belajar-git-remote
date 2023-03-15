@@ -4,6 +4,7 @@ baris baru pada ftr1
 baris baru spcl ftrC
 baris baru spcl ftrC
 baris baru spcl ftrC
+baris baru spcl ftrC
 baris baru pada branch master
 baris baru pada branch feature/squash
 baris baru pada branch feature/for-rebase
@@ -12,3 +13,5 @@ baris baru spcl feature/d
 baris baru pada branch master
 baris baru pada branch feature/pick
 perubahan feature/login
+baris baru pada branch master
+baris baru pada branch feature/squash
